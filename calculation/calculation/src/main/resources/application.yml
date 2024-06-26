@@ -1,0 +1,7 @@
+logging:
+  file:
+    name: logs/myapp.log 
+  level:
+    root: INFO  
+  pattern:  
+    file: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"  
