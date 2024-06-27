@@ -17,7 +17,7 @@ Setup
 ### Clone the repository:
 
 ### bash
-git clone https://github.com/yourusername/CalculatorApp.git
+git clone https://github.com/vishalyadav-bnt/Task3_Calculation.git
 
 cd CalculatorApp
 
