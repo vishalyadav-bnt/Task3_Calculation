@@ -1,6 +1,5 @@
 # Task3_Calculation
-# CalculatorApplication
-# Calculator App
+# Calculation Application
 This project demonstrates a simple REST API application built with Spring Boot for performing various calculations asynchronously using multithreading.
 
 ### Description
